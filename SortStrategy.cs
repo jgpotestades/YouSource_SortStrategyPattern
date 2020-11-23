@@ -6,10 +6,13 @@ using System.Threading.Tasks;
 
 namespace YouSource_SortStrategyPattern
 {
+    //STRATEGY
     abstract class SortStrategy
     {
         public abstract string Sort(string input);
     }
+
+    //CONCRETE STRATEGY QUICKSORT AND BUBBLE SORT
     class QuickSort : SortStrategy
     {
         public override string Sort(string input)
@@ -41,6 +44,8 @@ namespace YouSource_SortStrategyPattern
             return output;
         }
     }
+
+    //CONTEXT
     class sortedList
     {
         private string _input;
