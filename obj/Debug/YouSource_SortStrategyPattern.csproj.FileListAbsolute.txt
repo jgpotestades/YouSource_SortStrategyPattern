@@ -1,0 +1,10 @@
+D:\Documents\Company_HandOns\YouSource_SortStrategyPattern\bin\Debug\YouSource_SortStrategyPattern.exe.config
+D:\Documents\Company_HandOns\YouSource_SortStrategyPattern\bin\Debug\YouSource_SortStrategyPattern.exe
+D:\Documents\Company_HandOns\YouSource_SortStrategyPattern\bin\Debug\YouSource_SortStrategyPattern.pdb
+D:\Documents\Company_HandOns\YouSource_SortStrategyPattern\obj\Debug\YouSource_SortStrategyPattern.csprojAssemblyReference.cache
+D:\Documents\Company_HandOns\YouSource_SortStrategyPattern\obj\Debug\YouSource_SortStrategyPattern.Form1.resources
+D:\Documents\Company_HandOns\YouSource_SortStrategyPattern\obj\Debug\YouSource_SortStrategyPattern.Properties.Resources.resources
+D:\Documents\Company_HandOns\YouSource_SortStrategyPattern\obj\Debug\YouSource_SortStrategyPattern.csproj.GenerateResource.cache
+D:\Documents\Company_HandOns\YouSource_SortStrategyPattern\obj\Debug\YouSource_SortStrategyPattern.csproj.CoreCompileInputs.cache
+D:\Documents\Company_HandOns\YouSource_SortStrategyPattern\obj\Debug\YouSource_SortStrategyPattern.exe
+D:\Documents\Company_HandOns\YouSource_SortStrategyPattern\obj\Debug\YouSource_SortStrategyPattern.pdb
